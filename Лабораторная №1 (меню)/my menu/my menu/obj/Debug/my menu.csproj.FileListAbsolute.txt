@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\App.g.cs
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu_MarkupCompile.cache
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu_MarkupCompile.lref
+C:\Users\user\Desktop\my menu\my menu\bin\Debug\my menu.exe.config
+C:\Users\user\Desktop\my menu\my menu\bin\Debug\my menu.exe
+C:\Users\user\Desktop\my menu\my menu\bin\Debug\my menu.pdb
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.g.resources
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my_menu.Properties.Resources.resources
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.exe
+C:\Users\user\Desktop\my menu\my menu\obj\Debug\my menu.pdb
+C:\Users\user\Desktop\ТП\my menu\my menu\bin\Debug\my menu.exe.config
+C:\Users\user\Desktop\ТП\my menu\my menu\bin\Debug\my menu.exe
+C:\Users\user\Desktop\ТП\my menu\my menu\bin\Debug\my menu.pdb
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu_MarkupCompile.cache
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu_MarkupCompile.lref
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.g.resources
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my_menu.Properties.Resources.resources
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.exe
+C:\Users\user\Desktop\ТП\my menu\my menu\obj\Debug\my menu.pdb
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.exe.config
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.exe
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.pdb
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csprojAssemblyReference.cache
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\MainWindow.g.cs
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\App.g.cs
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu_MarkupCompile.cache
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu_MarkupCompile.lref
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\MainWindow.baml
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.g.resources
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my_menu.Properties.Resources.resources
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csproj.GenerateResource.cache
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csproj.CoreCompileInputs.cache
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.exe
+D:\Технологии программирования\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.pdb
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.exe.config
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.exe
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\bin\Debug\my menu.pdb
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu_MarkupCompile.cache
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu_MarkupCompile.lref
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.g.resources
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my_menu.Properties.Resources.resources
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.exe
+C:\Users\user\Desktop\Лабораторная №1 (меню)\my menu\my menu\obj\Debug\my menu.pdb
